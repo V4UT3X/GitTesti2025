@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Sveiks!";
+            textBox1.Text = "Čau, kā tev iet?????!";
         }
 
         private void button3_Click(object sender, EventArgs e)
